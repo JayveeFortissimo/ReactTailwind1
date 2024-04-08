@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+form input{
+    border-radius: 5px;
+    margin: 10px 0px 10px 0px;
+}
+
+form button{
+height: 2rem;
+background-color: aqua;
+width: auto;
+padding:0px 20px;
+border-radius:10px;
+margin-right: 20px;
+}
+
+#top{
+    margin-top: 20px;
+}
+
+
